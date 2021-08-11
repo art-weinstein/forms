@@ -1,3 +1,6 @@
 #letter {
+  background-color: blanchedalmond;
+  font-style: italic;
+  text-decoration: underline black;
   display: none;
 }
